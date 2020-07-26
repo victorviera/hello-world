@@ -1,3 +1,3 @@
 # hello-world
 empezando con Github
-si necesitamos entender eto
+si necesitamos entender esto
